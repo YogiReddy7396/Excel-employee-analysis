@@ -77,7 +77,7 @@ This project demonstrates end-to-end data analysis using Microsoft Excel, includ
 (Add your project screenshots here)
 
 Example:
-![Final Scorecard](images/final-scorecard.png)
+![Final Scorecard](final-scorecard.png)
 
 ---
 
